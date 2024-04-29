@@ -26,3 +26,4 @@ python essential-installer.py
 3. to get the path of the repository, open the repository in windows explorer, click on the address bar, and copy the path
 4. save the file as 'essential-installer.bat'
 5. run the file
+6. Enjoy
